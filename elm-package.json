@@ -4,6 +4,9 @@
   "repository": "https://github.com/jmars/elm-pako.git",
   "license": "BSD3",
   "exposed-modules": ["Pako"],
+  "source-directories": [
+    "src"
+  ],
   "native-modules": true,
   "dependencies": {
     "elm-lang/core": "2.0.0 <= v < 3.0.0"
