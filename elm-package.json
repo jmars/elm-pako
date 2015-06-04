@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "summary": "Pako library",
+  "summary": "Elm bindings to the Pako compression library",
   "repository": "https://github.com/jmars/elm-pako.git",
   "license": "BSD3",
   "exposed-modules": ["Pako"],
